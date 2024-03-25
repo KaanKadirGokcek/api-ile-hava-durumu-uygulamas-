@@ -30,7 +30,7 @@ def main():
 
 app = Tk()
 app.geometry('300x450')
-app.title('KK Hava Durumu')
+app.title('KKG Hava Durumu')
 
 cityEntry = Entry(app,justify='center')
 cityEntry.pack(fill=BOTH,ipady=10,padx=18,pady=5)
